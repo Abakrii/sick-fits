@@ -3,7 +3,6 @@ const Home = props =>(
 <div>
     <p>Home and Index Page!</p>
     
-   
 </div>
 );
 
